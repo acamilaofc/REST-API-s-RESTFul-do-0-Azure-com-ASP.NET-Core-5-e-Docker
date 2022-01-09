@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RGOw5n2ObamzZn+joISS3zMv9uTDJBBreJabX2zKl7br4TzhIRzxsWvWCXbgnhbyam2wbOW2AlRI0QxHPYsKMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repositório\\REST-API-s-RESTFul-dotnet-6\\Parte 01 - Calculadora API\\RESTWithWebAPI\\RESTWithWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\camik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\camik\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\camik\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\camik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\camik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
