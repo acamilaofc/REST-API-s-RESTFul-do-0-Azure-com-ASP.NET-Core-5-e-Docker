@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OxORKmc+OOjo6eR/kuN2LcitjKKgswHY0bXz78RrSu5L06FBD3VhvFzf3i+LlgeZ4jWMpgrxpkXftKJPK5YFkQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repositório\\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\\Parte 02 - Implementando a PersonController com mock\\RESTWithWebAPI\\RESTWithWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\camik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\camik\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\camik\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\camik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\camik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

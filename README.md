@@ -30,4 +30,23 @@ O intuito deste repositório é seguir fielmente o passo a passo das aulas, faze
       <li>Implementar uma calculadora API com o verbo GET<br/>CONCLUÍDO ☑</li>
     </ol> 
   </div>
+  <br/><br/>
+  <h2>Parte 02 | Commited 09/01/2022</h2>
+  <div>
+    <ol>
+      <li>Criar Person em Models<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Criar IPersonService em Services<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Implementar IPersonService em Services/Implementations<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Fazer mocks para teste de implementação<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Fazer injeção de dependêndia AddScoped<>();<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Ajustar PersonController para fazer CRUD<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Fazer testes usando o Postman<br/>CONCLUÍDO ☑</li>
+    </ol> 
+  </div>
 </div>
