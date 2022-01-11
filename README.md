@@ -49,4 +49,23 @@ O intuito deste repositório é seguir fielmente o passo a passo das aulas, faze
       <li>Fazer testes usando o Postman<br/>CONCLUÍDO ☑</li>
     </ol> 
   </div>
+  <br/><br/>
+  <h2>Parte 02 | Commited 09/01/2022</h2>
+  <div>
+    <ol>
+      <li>Criar o banco de dados com a tabela People<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Adicionar packages do EntityFramework<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Criar DbContext<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Configurar a connectionString<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Fazer uso do Schema em Person<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Remover mocks<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Ajustar PersonServiceImplementation<br/>CONCLUÍDO ☑</li>
+    </ol>
+  </div>
 </div>

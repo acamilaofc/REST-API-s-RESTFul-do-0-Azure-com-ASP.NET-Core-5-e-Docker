@@ -1,0 +1,87 @@
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\appsettings.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\RESTWithWebAPI.exe
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\RESTWithWebAPI.deps.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\RESTWithWebAPI.runtimeconfig.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\RESTWithWebAPI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\ref\RESTWithWebAPI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\RESTWithWebAPI.pdb
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.csproj.AssemblyReference.cache
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.AssemblyInfoInputs.cache
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.AssemblyInfo.cs
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.csproj.CoreCompileInputs.cache
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\scopedcss\bundle\RESTWithWebAPI.styles.css
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.csproj.CopyComplete
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\ref\RESTWithWebAPI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.pdb
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 02 - Implementando a PersonController com mock\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.genruntimeconfig.cache
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\appsettings.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\RESTWithWebAPI.exe
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\RESTWithWebAPI.deps.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\RESTWithWebAPI.runtimeconfig.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\RESTWithWebAPI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\ref\RESTWithWebAPI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\RESTWithWebAPI.pdb
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.csproj.AssemblyReference.cache
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.AssemblyInfoInputs.cache
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.AssemblyInfo.cs
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.csproj.CoreCompileInputs.cache
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\scopedcss\bundle\RESTWithWebAPI.styles.css
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.csproj.CopyComplete
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\ref\RESTWithWebAPI.dll
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.pdb
+D:\Repositório\REST-API-s-RESTFul-do-0-Azure-com-ASP.NET-Core-5-e-Docker\Parte 03 - Removendo mocks e integrando ao banco de dados\RESTWithWebAPI\obj\Debug\net6.0\RESTWithWebAPI.genruntimeconfig.cache
