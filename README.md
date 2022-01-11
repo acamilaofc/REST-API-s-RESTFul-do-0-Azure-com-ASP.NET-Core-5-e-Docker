@@ -50,7 +50,7 @@ O intuito deste repositório é seguir fielmente o passo a passo das aulas, faze
     </ol> 
   </div>
   <br/><br/>
-  <h2>Parte 02 | Commited 09/01/2022</h2>
+  <h2>Parte 03 | Commited 10/01/2022</h2>
   <div>
     <ol>
       <li>Criar o banco de dados com a tabela People<br/>CONCLUÍDO ☑</li>
