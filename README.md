@@ -68,4 +68,18 @@ O intuito deste repositório é seguir fielmente o passo a passo das aulas, faze
       <li>Ajustar PersonServiceImplementation<br/>CONCLUÍDO ☑</li>
     </ol>
   </div>
+  <br/><br/>
+  <h2>Parte 04 | Commited 02/02/2022</h2>
+  <div>
+    <ol>
+      <li>Adicionar o pacote Microsoft.AspNetCore.Mvc.Versioning<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Fazer a Dependecy Injection da Versioning na Program.cs<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Adicionar a annotation [ApiVersion] na Controller<br/>CONCLUÍDO ☑</li>
+      <br/>
+      <li>Configurar a rota da Controller<br/>CONCLUÍDO ☑</li>
+    </ol>
+  </div>
+  <br/><br/>
 </div>
